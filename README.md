@@ -14,12 +14,12 @@
   </a>
 </p>
 
+<h2 align="center">[THEME NAME]</h2>
+
 <p align="center">
-Srcery is a color scheme with clearly defined contrasting colors and a
-slightly earthy tone.
+[THEME DESCRIPTION]
 </p>
 
-[THEME INTRODUCTION]
 
 ## Requirements
 ## Installation
